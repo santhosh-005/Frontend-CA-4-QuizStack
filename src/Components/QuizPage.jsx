@@ -78,7 +78,7 @@ function QuizPage(props) {
             id="option2"
             onClick={() => handleClick("option2")}
           >
-            <div className="circle">B</div>{" "}
+            <div className="circle">B</div>
             <div>
               <h3>{questions[currentQues].options[1].text}</h3>
             </div>

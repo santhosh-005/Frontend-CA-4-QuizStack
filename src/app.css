@@ -32,6 +32,9 @@
   flex-direction: column;
   color: white;
   border-radius:20px;
+  font-family: 'Itim';
+  font-weight: lighter;
+
 }
 
 .top-container {
@@ -116,3 +119,5 @@
 #highlight-btn:hover {
   cursor: pointer;
 }
+
+
