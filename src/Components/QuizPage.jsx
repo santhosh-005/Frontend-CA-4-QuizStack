@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import questions from "../questions";
 import "../app.css";
 import logo from "../assets/logo.png";
-import highlightBtn from "../assets/highlight.png";
 import lightoff from '../assets/off.png'
 import lighton from '../assets/on.png'
 

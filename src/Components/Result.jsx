@@ -56,7 +56,7 @@ function Result(props) {
         <button
           style={{
             width: "150px",
-            height: "30px",
+            height: "40px",
             fontWeight: "bolder",
             border: "3px solid green",
             borderRadius: "8px",
